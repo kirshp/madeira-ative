@@ -1,8 +1,8 @@
 {
   "note": "Cultural events harvested from t.me/festas_madeira. Accumulates: the channel only exposes recent posts.",
   "source": "https://t.me/s/festas_madeira",
-  "fetched": "2026-09-01T10:08:55",
-  "count": 52,
+  "fetched": "2026-09-06T09:28:34",
+  "count": 66,
   "categories": {
     "concerto": "Concert",
     "arraial": "Arraial",
@@ -700,7 +700,7 @@
         "família"
       ],
       "place": "Funchal",
-      "poster": "https://cdn4.telesco.pe/file/fEyb0lAXC120Q0M1SiOTRTxp1aueBMTddqBHfVX9UZPtFlcqiruo7JP_eY5mJVaMnwq4LSxiduSSSTIWyAJd85aa6xxwe4cH8aFU9Wafo3ZBUN94enRWuQK5anUMHH2V20wlLaXzOcFYf0S3_Czr_4QwoQhj1PkUunIdYJZT6JuEz3KY2npzd4f9US-GdchiD1eGXJMZbE5AfW76yBsFS1uETw0HUCkrnETp5k2ZgVuGl-YeCmBnhv9xefnjDHRe0Kouln7AXjrIvog45qFmj9R9tRRWnSK3ifqqeok3yBvvjLBk_jKwfgds_wWJLqshIbl1om-Ud4-l1oXisFHr6A.jpg",
+      "poster": "https://cdn4.telesco.pe/file/Tz7NaIvHx3UhYXscB9o-N0eh-WjIzeULDf-E4UCeY7QfH5VrlIbcfR0a0YiObr0ZLN6EVnxIHWvyMZNiaO5y_KyglO3ehI70pew4qy1AwapWOrFv8c3uWbMPR1OFx1L82C9lR-ixFdcRC4GUyU6zQwadY2Y8JG-tiyMUgOL49FTNGDAl8gT2vDkkq189TkS6zVvwtQwVwV7NGryrkIZJsBoq8j8OuPhZ1ibknFDOaqfmTCBGJb8k44dsG6qO42EN6NvQQC-BcSaAEG7TFHm7oDACTLRTyMg-cxxDARgDij1kXeXtvuzROwRiDF9h3VDpl-cP-juJBuXy4acY42maqw.jpg",
       "published": "2026-08-29T15:01:59+00:00",
       "poster_text": "",
       "name": "",
@@ -772,6 +772,40 @@
       "title": "ORIENTA ÇÃC AVENTURA vente CARVALHAL - CANHAS"
     },
     {
+      "post": "https://t.me/festas_madeira/2455",
+      "dates": [
+        "2026-09-05"
+      ],
+      "categories": [
+        "concerto"
+      ],
+      "place": "Machico",
+      "poster": "https://cdn4.telesco.pe/file/YkmxeVJOsgpn0QjBSq1F4WyzVaSWA4zek94Nt31ItB9-5N1Zu_yfhFLGUcUKRbC2539QbElWyLsEGk_jQdXdACB_B1v15Mabi_ph3D3lHu3fwVxq-HyKmNLNh9P2JaTa99u6J7WihfNzdOh4jm8m2Gs9Ggj2KoEjmMIwiSKWg0n9ZK34zel6oDnarwv3YcEQubQXLwciW-UNpjD6KDKXk5aUdSOfNO5kYmgiYmUi53-IqvpTLliFeLkwkCaAKqDInnopS9dcnT8216M5MJBIsznv6rcBJlI6GIChXJNFDglUZg7MS_q-aGJD52lYroxfCWOCaeVHB1b9vVDWDGP20w.jpg",
+      "published": "2026-09-05T09:35:37+00:00",
+      "poster_text": "crias\n\ncia a\n\nMACHICO\n\nTe\n\nJANTAR\n\nRESTAURANTES NA PROXIMIDADE\n20h00 > 22400\n\nBAILE «\n\nLARGO DA PRAÇA\n22400 > 02h00",
+      "name": "RESTAURANTES NA PROXIMIDADE",
+      "title": "RESTAURANTES NA PROXIMIDADE"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2456",
+      "dates": [
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08"
+      ],
+      "categories": [
+        "arraial",
+        "religioso"
+      ],
+      "place": "Arco Da Calheta",
+      "poster": "https://cdn4.telesco.pe/file/vx8XYAW5ena5xPOHEh-Jv1oFmsPXhHFGXzSPL1iHKJS0nEUG8cWJz0qHYSHXrBZmnYL4pKkeoVS06P1v6SgvvrUfXYur3q7v5iJvgqN7WkhgmRsk6e_7Nt_neNCnRC3bUzlcoi9wALA6gmU7kPnMy3pn1S_hoxS-uhpMlnJFk_bGdjyrP6Qcy2jApMWsg27t-_C22Ku1zCiHzKSIOHH98wbDF0JqLKLde7rK_hGtApzQKHsuoQWRMB64NLeUwx8yPv05JvhoowQ549avyX5XmuMJkAMm-N-uX9hXzPPn80zZoAQQJGQz5qhXjgjE1kOrb2SIqKs1e4uMWj8EqFz2uw.jpg",
+      "published": "2026-09-05T09:35:43+00:00",
+      "poster_text": "nossa SENHORA DO LORETO\n\ne Santo Antão\n> osseremano 4\n\n16:00 MISSA / PROCISSÃO\n\nTRIOVA VOICES\n21:30 RONI DE MELO\n00:00 ENCERRAMENTO.\n\n12:00 GIRÂNDOLA DE FOGO 14:00 BANDA FILARMÓNICA\n\n12:00 BANDA FILARMÓNICA 15:00 MISSA / PROCISSÃO\n19:00 MISSA 12:30 GRUPO DE ACORDEO!\n\n20:30 BRINQUINHO 18:30 BANDA FILARMÓNICA\n\n22:00 ÁLVARO FLORENÇA 20:00 OS D'ARRAIAL\n21:30 MIRO FREITAS\n\nEca”\n\nARCO DA CALHETA\nFÉ © TRADIÇÃO e CULTURA e CONVÍVIO",
+      "name": "nossa SENHORA DO LORETO e Santo Antão",
+      "title": "Arraial · Arco Da Calheta"
+    },
+    {
       "post": "https://t.me/festas_madeira/2439",
       "dates": [
         "2026-09-06"
@@ -806,6 +840,111 @@
       "title": "NA ESTRADA MONUMENTAL Junto ao HOTEL vIDAMAR"
     },
     {
+      "post": "https://t.me/festas_madeira/2449",
+      "dates": [
+        "2026-09-06"
+      ],
+      "categories": [
+        "desporto"
+      ],
+      "place": "Machico",
+      "poster": "https://cdn4.telesco.pe/file/rsQbXBGlRw98BMM0Lgu8TQiWHkpXv1ERaWsFuE_JrK25q57h2gw18txu8AHsjHyTTDRAlaySL5hfDeisMnWPoZKpaEE6IcmTBOMMxGJJh5VSrqR8_eZwzjPfWWwv1ld6-BbJkkmL5l47hPz0rTzm_evV0VuZmE3ihYMoZ76ukxKHuH6gFxokrNFsIDdE01LeZNe8mkWQT2RdsvkJRPM59wYXoWFQU0waWG8DwmKU7AGz55sQOWOZhaIA2PimfTgvnjMpzIZcHshMBMjQ_SDzoXczH-PlqNFENxkPmE0EwmJ2lD-V1UE60wjBMX5OcEJ5vDDGJihN24BMgZavEQKw7w.jpg",
+      "published": "2026-09-01T11:02:28+00:00",
+      "poster_text": "SWIMRUNS  SWIMRUNH\n\nMADEIRA\nSWINIRUN\n\nMACHICO\nE 09-2026 é\n\nmscanãES ABERTAS ==",
+      "name": "SWIMRUNS SWIMRUNH MADEIRA SWINIRUN MACHICO",
+      "title": "SWIMRUNS SWIMRUNH MADEIRA SWINIRUN MACHICO"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2461",
+      "dates": [
+        "2026-09-06"
+      ],
+      "categories": [
+        "festival"
+      ],
+      "place": "Ponta Do Sol",
+      "poster": "https://cdn4.telesco.pe/file/LAadoE3mKPbBJGpsKEIaASPEbTJ7ufxL0PiMDrau3fbkPVHovwct2885Jws3DoNTqDYkLNyhdrlpIaaN3xn9yv-SS_DnCQT_F-TDuJAFBg7o3t8S18uSlNpYdh1ENRPAzh7QyzZKjXA0FApRdeAqeztsuNVCZs9RxE_s1JOBRPbw6cVvRAQwNxq6U14jj78TOh7Bue61lyRznRJWh5klJhO4cDDHag97rXTjScy36WLgyTfLqWboSLCvzq6ElOkU-lJazoSo4aMMQ1_JXqrp7MNpySyS54YO3VxAxBRtrTxzY96KdAufLFXBFsLFZ0fqQMfc6AHgM3sh4eRGOa-fmg.jpg",
+      "published": "2026-09-05T09:52:42+00:00",
+      "poster_text": "FESTAS DA\n\n~~ PONTA\nDs Ro",
+      "name": "FESTAS DA PONTA",
+      "title": "FESTAS DA PONTA"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2462",
+      "dates": [
+        "2026-09-06"
+      ],
+      "categories": [
+        "festival"
+      ],
+      "place": "Ponta Do Sol",
+      "poster": "https://cdn4.telesco.pe/file/E8uM5xOxv6RM9OPgnAJqpfrAZTcJ1x5zPkDJn03Ow5tL3gMaAf6VHrV6pTYEtOqb9XNlQ_XOCT15l2HzmyF2DgqpaFOVCmIV6YE2nloHBn-K88zVbZOugzyPd3KQO0qLNYmZzL00JI3gnbOyIdikEbUAarDRHE-5yuN0n8P8COGPkJPVR3iN4XUBtqkSFon7_vOF6-7fj0F3tuIKvFBn3bDzJ30ULHyBK8kNNwqFgFiNQnsnC9mLz8o1WXDPyfRVC4m2twXlWytN2FgdAb6Wk0zOj-6lrJ5yUpZFUcVlcfxZw3BM39oYsMfZBsPxUP7ik-3p0eVcUBHraVeEngEi7A.jpg",
+      "published": "2026-09-05T09:52:46+00:00",
+      "poster_text": "",
+      "name": "",
+      "title": "Festival · Ponta Do Sol"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2458",
+      "dates": [
+        "2026-09-07"
+      ],
+      "categories": [
+        "festival"
+      ],
+      "place": "Ponta Do Sol",
+      "poster": "https://cdn4.telesco.pe/file/J-nwKxLjyZ2yt-msd0Xr_7H55UWUhgHDCBjVXSfpglvsrXUHqrP5-X_VhmrrT6EM1MiwE5THZzYMFXajlezxJ0V__At7Uzh-Og-lKqkAbyi1xxCNszmCJbt3dNDnfPVZ1h4gIYiqebSzJtk8jX7UAysEtkhKk4cgfBI04jY21hGX9Izle0YVrit0tY4xXWMDG4y75-MvnA0Qev8zaQp2N6x8CkMQdrjJ_fCri6FbYR3D4dkjrQ3LLMjFy9O6R1_TdhlRtUD5nsRrFuM61Yr-YWzM3IxdTXid70RmdZ6UV63BaCoBeVWvPGlX1dnidS2fEFYeuoqxyYRJCuAtS-y3Ag.jpg",
+      "published": "2026-09-05T09:52:26+00:00",
+      "poster_text": "nS0L",
+      "name": "nS0L",
+      "title": "Festival · Ponta Do Sol"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2459",
+      "dates": [
+        "2026-09-07"
+      ],
+      "categories": [
+        "festival"
+      ],
+      "place": "Ponta Do Sol",
+      "poster": "https://cdn4.telesco.pe/file/Zv0hxQ6EQMfJM3GsQUE_ecDa0wMfN-pUciNlJsi7eLkVrjUhrIbMzz84lmmPwKwpkr3EBRuNO_UlnRZ5Ys356hWRquGBMicsoB8oPMNcFfcJ4Rh-wNRajmhCNifJn-sbRc63ov2TzOqXR5gc6q01cFxAsBlJymHSjYkZhv351ZxcEC8jeeC50MRhQsqptYIczAltjfUBmPUOgli_eucRgjUip6lvGb_LPZO7UAYBiv3rb0T-hGMKe5urHocCC9LrwTsGUntDcK0IcD4Ea7PcW_4WWsqIYG3qC-70YhvDbGMdlsL0xLg5rsI3paUxyAQ_tbaAxC5GK7OZZ_UhnNh90g.jpg",
+      "published": "2026-09-05T09:52:32+00:00",
+      "poster_text": "",
+      "name": "",
+      "title": "Festival · Ponta Do Sol"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2460",
+      "dates": [
+        "2026-09-07"
+      ],
+      "categories": [
+        "literatura"
+      ],
+      "place": "Ponta Do Sol",
+      "poster": "https://cdn4.telesco.pe/file/T3kEmD77uJnm9w-kQnxVSt191f7YoWNll1wsvh4KZtpqDv0sBUJZ5RFrOLUN5QpzVuP3M7RxqA3cvxIqBXLd1rDS5_SFHmiwqB4X4U91maqgO_RjlgwORZ9rvkkbrVaHGkWYAaOQP0rI1h5bC3kFO2zakQ6UE4KBbaj-QeeCJPhQ1kEO3dqqE0a3YXHkziGZjeGatsGodUVRRof4aYwU1xumQcvArqEcoQn08UZZ8KUvVSOjxhkv05JhP8QI8KzH8Nuo8tuqdKsd2iCG1CExulN51-EGVAd87OJvXYr0fBc9pQVJ8rpqrhhbB-0TCnRHz2cufWvNVTIc11zxcVlr2Q.jpg",
+      "published": "2026-09-05T09:52:36+00:00",
+      "poster_text": "‘MUNICIPIO DA\nPONTA DO SOL\n\nMEMÓRIAS DE\n\neis\n\nMAGISTRADO E EX-REPRESENTANTE DA REPÚBLICA PARA A REGIÃO\nAUTÓNOMA DA MADEIRA\n\nfm 07 18h00\n\nSEU SEGUNDA-FEIRA\n\nSALÃO NOBRE DOS PAÇOS DO CONCELHO DA PONTA DO SOL",
+      "name": "MAGISTRADO E EX-REPRESENTANTE DA REPÚBLICA PARA A REGIÃO",
+      "title": "Literature · Ponta Do Sol"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2454",
+      "dates": [
+        "2026-09-09"
+      ],
+      "categories": [
+        "oficina"
+      ],
+      "place": "Machico",
+      "poster": "https://cdn4.telesco.pe/file/hoafuQczQzz8IBzWUAigV--RI2cJ1oHlP-WEk3n1CMh2NsNlmirUcXHURa4dnXKNMpW2w6QKLeaJt6ZcY0J-kPcmjMvptbLErRRY4PBlgKc1ch70ZyJ0Wha-5rqSWSeV5RezrWxJn-yF659C8W3RgqWw9pe0-KYFIZ0-L5DkocwM3qy6HBFPhtFc40QQ3cu5yBIY_MMVCdhjjkoTvaYb-Wrp0diefUp6LTZlTmJWSs1oLjZ-LQVDIiQKG3zWM-mpCb1vtVnn1VD2z9-OW1PIB1cOeviGbWhXFfzq99MJWWst274mvfFgTkS94PM0dtIgHh0OZdMxua77gPNXvKiaGg.jpg",
+      "published": "2026-09-05T09:35:34+00:00",
+      "poster_text": "CREACTIVITY\n\n- um espaço para works crianças apart dos anos onde se praia a art de pensar\n26 mos, com elementos idealzados para impulsionar a criatividade, o espiria\nremoto, copa o andas\n\nMACHICO\n\n(Entrada Gratuita)\n\n9a 11 de setembro\n\nPraça do Fórum Machico\nGrupos - 09h00 - 13h00 e 14h30 - 16h30\nEntrada Livre - 16h30 - 18h30\n\n+ Workshops grupos* | Visitas de exploração livre**\ncontacta previamente 99 250627 ** ão necenstaroeeva\ncu Bi portugal renctvitue com\n\nESBPI K Fundação \"laCaixa’ E MACH",
+      "name": "um espaço para works crianças apart dos anos onde se praia a art de pensar",
+      "title": "Workshop · Machico"
+    },
+    {
       "post": "https://t.me/festas_madeira/2433",
       "dates": [
         "2026-09-10",
@@ -825,6 +964,60 @@
       "poster_text": "SENHOR DA 2028,\nPACIÊNCIA +\n\nMOSTEIRO DE SANTO ANTONIO A\n\nIRMÃS CLARISSAS\n\n10 de setembro (Quinta-feira)\n\n18h30 - Confissões\n19h00 - Adoração ao Santíssimo Sacramento\n\neoração de vésperas\n20h00 - Missa\n\n11 de setembro (Sexta-feira)\n\n18h30 - Confissões\n\n19h00 - Adoração eo Sentíssimo Sacramento\neoração de vésperas,\n\n20h00 - Missa\n\n21h15 - Grupo folelore centro cutural\n\nSanto Antonio\n\n12 de setembro (Sábado)\n\n18h30 - Contisões\n\n19h00 - Adoração ao Santísimo Sacramento\neração de vésperas\n\n20h00 - Misa da vigia da festa.\n\n21h30 - Conjunto musical Tio Emanuel Ritmo 3\n\n13 de setembro (Dominge\n\n16h00 - Banda flarmónica Recrelo Campcrés\nThOO - isa a fosta presidida pelo\n\nSi Bispo D. Nuno Bis\nSoquida de proisão pel sto\ndo Perse Miradouro\n\n20h00 - Conjunto muscal Octo reas\n\nay\n\nwsitACAo",
       "name": "10 de setembro (Quinta-feira)",
       "title": "Concert · Funchal"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2450",
+      "dates": [
+        "2026-09-10"
+      ],
+      "categories": [
+        "concerto",
+        "festival",
+        "desporto"
+      ],
+      "place": "Ponta Do Sol",
+      "poster": "https://cdn4.telesco.pe/file/jR-DdcX0HkuwTsHas65ACavUOaRc1ouu-WLLzvyWbfESIwpLFgWOEXt2wJU1PoELdZEPF1htFHJ4yZhq-sanoxDi0TuJJHFvsoFyQSPK3RhYHZwjpiM6BpKTAfMfPTBKeYZ_TyisWKcSMPKjjnAOJ1QqnB3ArBaDw_E_46q2VLfTTZqTsyhuZnz6gKhj_RAdOxEpUQsRZza3QyY8CZvGqgWRR8KYxVNOdmtmj_sYFA8JjJI9z9KJUHrDg1NSwOwAi0qsbq4F4O2eraD7JUF5ZP7yZHYs9ybIy3JmZ1zFEXXxj1wLWpJl2wqIyGj__1ZlRu_H_UDHH6OYOHsOV1Mdhw.jpg",
+      "published": "2026-09-02T09:20:34+00:00",
+      "poster_text": "HN DA | KURYCHENKO\n\nANATOMY DF CODE\n\nPERFORMANCE AUDIOVISUAL\n\n\"\n\n19H\n\nO49 |\n\neso TD;\n\nCCTOP - CENTRO CULTURAL TOHN DOS PASSOS\n\nLAPP Z crvcnvozoureun sesronnance eoacannne\n\nno\n\nTARHSGSASSIOM\n\naxo\nEM er em dom rate\n\nmi4 ine",
+      "name": "HN DA | KURYCHENKO ANATOMY DF CODE PERFORMANCE AUDIOVISUAL",
+      "title": "Concert · Ponta Do Sol"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2451",
+      "dates": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "categories": [
+        "arraial",
+        "festival"
+      ],
+      "place": "Estreito De Câmara De Lobos",
+      "poster": "https://cdn4.telesco.pe/file/n9SpFN6tzwRonrQuVHbneSEN9-c6yHZATxjctTBGkQ8UdVUBUikHanSlSfxVJfzJLmF2R_8KJjsmV5EkZUWfH3cvrTSk3FL1HaXdT3i6p5tnQjDTHEB7c1TGNisyjLupbbp4dAjjci5AE1L1uh3ma06HtMNRn-N-gM2ZrZe8ebQLwFwsRYPu3vGI9vBiTWtli80ebTmrqBeJCh5avxU4KlTvDlf2bp3SrEkanzGIAyLTMrYfNxF-nHqO0LapZRBvJzz6G4UDfRsP2iCrRJrjbsGNhYWL-zrusxoqURcP79J-mCzOzLuZrv-y1DlHIKSH98ikPmwkq3R1GefzEM82dw.jpg",
+      "published": "2026-09-02T21:08:06+00:00",
+      "poster_text": "O vt\n~~ FESTA DAS |\nINDIMAS ,;\n\nESTREITO DE CÂMARA DE LOBOS Pa “7\n\n10 SET.\n4 quivtnirema",
+      "name": "O vt FESTA DAS |",
+      "title": "Arraial · Estreito De Câmara De Lobos"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2457",
+      "dates": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "categories": [
+        "religioso"
+      ],
+      "place": "",
+      "poster": "https://cdn4.telesco.pe/file/XgMs1GbsgLdjAI4_M8sSQsDb0mFEOSIx1E-3OrmNRd_w6Ie-ORiU5JkiS02oYD5NAnhCNSS6DMxUkJe99aXW5hEd0Z3kmMY01paE12f-0Inx2_oZDzKuY2zX9IB0bmmT1CLVOMytA50_QjPwI80YPCcDMPVW8p84lt7o6H1VDoGzkvgb6qRRh1v4FJ7df8H4MEfNd-yM2rWA1Q1vTEdyn0ziWYBRCXuuhZKGueI5etlbogag_LFnZgTKKfJMHnlYkcggNy8XIuQQbBFE15wMhA29zu92wQrTsn-3hcxtQQLlYf9Yv4mTkBc8v3bSQBJipE-7LmhO1PBq0MUsyrUUrg.jpg",
+      "published": "2026-09-05T09:35:59+00:00",
+      "poster_text": "SENHOR DA 2028,\nPACIÊNCIA +\n\nMOSTEIRO DE SANTO ANTONIO A\n\nIRMÃS CLARISSAS\n\n10 de setembro (Quinta-feira)\n\n18h30 - Confissões\n19h00 - Adoração ao Santíssimo Sacramento\n\neoração de vésperas\n20h00 - Missa\n\n11 de setembro (Sexta-feira)\n\n18h30 - Confissões\n\n19h00 - Adoração eo Sentíssimo Sacramento\neoração de vésperas,\n\n20h00 - Missa\n\n21h15 - Grupo folelore centro cutural\n\nSanto Antonio\n\n12 de setembro (Sábado)\n\n18h30 - Contisões\n\n19h00 - Adoração ao Santísimo Sacramento\neração de vésperas\n\n20h00 - Misa da vigia da festa.\n\n21h30 - Conjunto musical Tio Emanuel Ritmo 3\n\n13 de setembro (Dominge\n\n16h00 - Banda flarmónica Recrelo Campcrés\nThOO - isa a fosta presidida pelo\n\nSi Bispo D. Nuno Bis\nSoquida de proisão pel sto\ndo Perse Miradouro\n\n20h00 - Conjunto muscal Octo reas\n\nay\n\nwsitACAo",
+      "name": "10 de setembro (Quinta-feira)",
+      "title": "Religious"
     },
     {
       "post": "https://t.me/festas_madeira/2414",
@@ -971,6 +1164,21 @@
       "title": "FESTAS PERO PONTA DO PARGO"
     },
     {
+      "post": "https://t.me/festas_madeira/2452",
+      "dates": [
+        "2026-09-19"
+      ],
+      "categories": [
+        "espetáculo"
+      ],
+      "place": "Funchal",
+      "poster": "https://cdn4.telesco.pe/file/g8BqSDm6KwAMS5bqVFeV_il5KWNX_EKQY9iJAl-DVJqjTinTuG2iswNlb5iQVWBrA0Fc2VSB7v3yLTxFlIwgQIAbPbCTjNIVxnrRSeRcWKLsteCSGtd78wKZ6c11skds5l70Cusx97dr3bnF9Im36n5jTXUQguDEs-kHvGuyHgp9O5ITDhJ3d8SxVecvo192b-hH-GQpG_6slcP27cJH6N-Exb4OcC5fq9JdKa4s85ORvGQZQAF8gEH-Fij8yCU2RrFf5jVyF0gYYXfxW9nQKjuC9Cy5k8oe7ObUiKv02Trpt_5S2tL2o6hNvaJ9n1Oy5LP9WBxtXCxl_ckQ_ZlpNA.jpg",
+      "published": "2026-09-05T09:23:20+00:00",
+      "poster_text": "",
+      "name": "",
+      "title": "Show · Funchal"
+    },
+    {
       "post": "https://t.me/festas_madeira/2437",
       "dates": [
         "2026-09-20"
@@ -985,6 +1193,21 @@
       "poster_text": "RO\n\nMOVIMENTO 7\nDIVERSÃO\n=. AMIZADE À\n\nCORRE SALTA LANÇA FAZ NOVOS AMIGOS\nMAIS RÁPIDO MAIS LONGE E DIVERTE-TE!\nPquanoo? N gg amimoes us\nTODAS AS IDADES\nTREINADORES QUALIFICADOS\nDAS TOHOD ÀS 13h00 ) q eommgucas onerrss\n(o! EESAFANTES\nTRAZOS TEUS AMIGOS\nIO Fine FUNCHAL “; rATUA\n\n(C* AVENIDA DO MAR eh [Ev\n~ VEM FAZER PARTE DESTA EQUIPA!\n\nMOVIMENTO AMIZADE",
       "name": "CORRE SALTA LANÇA FAZ NOVOS AMIGOS",
       "title": "CORRE SALTA LANÇA FAZ NOVOS AMIGOS"
+    },
+    {
+      "post": "https://t.me/festas_madeira/2453",
+      "dates": [
+        "2026-09-28"
+      ],
+      "categories": [
+        "desporto"
+      ],
+      "place": "Machico",
+      "poster": "https://cdn4.telesco.pe/file/TF7iVqXX4DJuEZdl0n_9hmsRTAMfv77KQG1j7hKcB__UvYPZAF3ukFY8Vz5cTh1LpYl04ZWEBZKO36SJvwysurcOxF8yfkeGhcOPf7mK9T3ATSH04gOvdbM_5v-LhOVs-mDdhM6RL2-pkvxiPwdP5DgnPndhMZJDRs-n-xnpNFUsQRaWm8ULK-ExK7LDAwqELWaccKoiJX_nz5I3M28a2fpYzn_LfKyN4a1u6FV6x822z-bVHatp5uXMJwRztA4oUlAnPYWS_iCVjWk74aqYUxo9MvrU26AncfCCzOdNdceQU3-zvx9UJt2RLh2uY_oZ7SG_Kt8zsSgTqgDkNSAdYw.jpg",
+      "published": "2026-09-05T09:35:25+00:00",
+      "poster_text": "AUTUMN EDMON | 28 SET ~ 9 OCT 2026\n\nTRANS MADEIRA\n\nPOWERED BY\n\nfunchalpt O o EMO\n\nPES, mewnoe Cacos ERIS",
+      "name": "PES, mewnoe Cacos ERIS",
+      "title": "PES, mewnoe Cacos ERIS"
     },
     {
       "post": "https://t.me/festas_madeira/2447",

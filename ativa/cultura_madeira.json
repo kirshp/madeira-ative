@@ -1,8 +1,8 @@
 {
   "note": "Cultural agenda of the Regional Directorate for Culture. Accumulates: the site lists only what is current. Dates carry no year on the page and are derived from the printed weekday, which identifies the year uniquely.",
   "source": "https://cultura.madeira.gov.pt/index.php/agenda-cultural",
-  "fetched": "2026-09-01T10:08:44",
-  "count": 36,
+  "fetched": "2026-09-06T09:28:11",
+  "count": 46,
   "items": [
     {
       "id": "114",
@@ -62,6 +62,16 @@
       "end": "2026-10-31",
       "time": "",
       "place": "Sala de exposições da Assembleia Municipal do Porto Santo",
+      "category": "Exhibition"
+    },
+    {
+      "id": "291",
+      "title": "\"Da Laurissilva ao Cosmos",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/exposicoes/da-laurissilva-ao-cosmos",
+      "start": "2026-07-04",
+      "end": "2026-10-24",
+      "time": "16:00",
+      "place": "Centro Cultural e de Investigação do Funchal",
       "category": "Exhibition"
     },
     {
@@ -245,6 +255,26 @@
       "category": "Traditional feast"
     },
     {
+      "id": "285",
+      "title": "A Orquestra Clássica da Madeira apresenta nova temporada",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/musica/a-orquestra-classica-apresenta-orquestra-jovem-sinfonia-da-madeira",
+      "start": "2026-09-05",
+      "end": "2026-09-26",
+      "time": "18:00",
+      "place": "Assembleia Legislativa da Região Autónoma da Madeira",
+      "category": "Music"
+    },
+    {
+      "id": "290",
+      "title": "Ciclo de Concertos \"Ilha Secreta – Fachos de Música\"",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/musica/ciclo-de-concertos-ilha-secreta-fachos-de-musica",
+      "start": "2026-09-05",
+      "end": "2026-09-05",
+      "time": "18:00",
+      "place": "Núcleo Histórico de Santo Amaro - Torre do Capitão",
+      "category": "Music"
+    },
+    {
       "id": "276",
       "title": "FESTIBRAVA 2026",
       "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/musica/festibrava-2026",
@@ -285,6 +315,26 @@
       "category": "Music"
     },
     {
+      "id": "292",
+      "title": "FARM — Festival Agrícola e Repentista da Madeira",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/outros-eventos/farm-o-festival-agricola-de-santana",
+      "start": "2026-09-09",
+      "end": "2026-09-11",
+      "time": "22:30",
+      "place": "Praça de Santana",
+      "category": "Traditional feast"
+    },
+    {
+      "id": "295",
+      "title": "“Serões da Mocidade Portuguesa e Récitas do Liceu Nacional do Funchal (1960 – 1964)”",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/conferencias/seroes-da-mocidade-portuguesa-e-recitas-do-liceu-nacional-do-funchal-1960-1964",
+      "start": "2026-09-09",
+      "end": "2026-09-09",
+      "time": "15:30",
+      "place": "Museu da Quinta das Cruzes",
+      "category": "Conference"
+    },
+    {
       "id": "257",
       "title": "Skin | Pele | Metes-me Nojo",
       "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/exposicoes/skin-pele-metes-me-nojo",
@@ -305,6 +355,16 @@
       "category": "Other"
     },
     {
+      "id": "287",
+      "title": "Performance Audiovisual \"Anatomy of Code\"",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/musica/performance-audiovisual-anatomy-of-code",
+      "start": "2026-09-10",
+      "end": "2026-09-10",
+      "time": "19:00",
+      "place": "Centro Cultural John dos Passos",
+      "category": "Music"
+    },
+    {
       "id": "263",
       "title": "Festas do Faial 2026",
       "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/festas-tradicionais/festas-do-faial-2026",
@@ -323,6 +383,26 @@
       "time": "",
       "place": "Cine Teatro de Santo António",
       "category": "Activity"
+    },
+    {
+      "id": "289",
+      "title": "\"Detalhes Invisíveis\"",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/exposicoes/detalhes-invisiveis",
+      "start": "2026-09-11",
+      "end": "2026-09-11",
+      "time": "17:00",
+      "place": "Casa da Cultura de Câmara de Lobos",
+      "category": "Exhibition"
+    },
+    {
+      "id": "252",
+      "title": "Concerto Inaugural da Orquestra Clássica da Madeira - Temporada 2026/2027",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/musica/concerto-inaugural-da-orquestra-classica-da-madeira-temporada-2026-2027",
+      "start": "2026-09-12",
+      "end": "2026-09-12",
+      "time": "18:00",
+      "place": "Auditório do Centro de Congressos da Madeira",
+      "category": "Music"
     },
     {
       "id": "281",
@@ -355,6 +435,16 @@
       "category": "Traditional feast"
     },
     {
+      "id": "288",
+      "title": "Espetáculo \"Maria(s)\"",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/teatro/espetaculo-maria-s",
+      "start": "2026-09-19",
+      "end": "2026-09-19",
+      "time": "20:00",
+      "place": "Largo do Corpo Santo - Zona Velha",
+      "category": "Activity"
+    },
+    {
       "id": "233",
       "title": "Livrai-nos da Fome!",
       "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/teatro/livrai-nos-da-fome",
@@ -363,6 +453,16 @@
       "time": "",
       "place": "Teatro Municipal Baltazar Dias",
       "category": "Activity"
+    },
+    {
+      "id": "294",
+      "title": "“Até ao Lavar dos Cestos é Vindima”",
+      "url": "https://cultura.madeira.gov.pt/index.php/agenda-cultural/festas-tradicionais/ate-ao-lavar-dos-cestos-e-vindima",
+      "start": "2026-09-26",
+      "end": "2026-09-27",
+      "time": "",
+      "place": "Casa do Povo de Ponta Delgada",
+      "category": "Other"
     }
   ]
 }

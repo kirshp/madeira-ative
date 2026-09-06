@@ -1,13 +1,13 @@
 {
   "note": "Annual races not yet announced by their organisers. Rebuilt daily.",
-  "generated_at": "2026-09-01",
+  "generated_at": "2026-09-06",
   "items": [
     {
       "name": "Trail Água de Pena",
       "mode": "trail",
       "expected": "Expected in September 2026",
       "watch_dates": [
-        "2026-09-01"
+        "2026-09-06"
       ],
       "location": "Machico, Madeira",
       "status": "watching for a confirmed 2026 date (known schedule)",
@@ -18,7 +18,7 @@
       "mode": "swim",
       "expected": "Expected in September 2026",
       "watch_dates": [
-        "2026-09-01"
+        "2026-09-06"
       ],
       "location": "Madeira",
       "status": "watching for a confirmed 2026 date (known schedule)",
@@ -29,7 +29,7 @@
       "mode": "trail",
       "expected": "Expected in September 2026",
       "watch_dates": [
-        "2026-09-01"
+        "2026-09-06"
       ],
       "location": "Ribeira Brava, Madeira",
       "status": "watching for a confirmed 2026 date (known schedule)",
@@ -89,17 +89,6 @@
       "location": "São Vicente, Madeira",
       "status": "watching for a confirmed 2027 date (known schedule)",
       "url": "https://trailboaventura.com/"
-    },
-    {
-      "name": "Trail do Porto Moniz",
-      "mode": "trail",
-      "expected": "Expected in February 2027",
-      "watch_dates": [
-        "2027-02-01"
-      ],
-      "location": "Porto Moniz, Madeira",
-      "status": "watching for a confirmed 2027 date (race history)",
-      "url": "https://trailportomoniz.com/"
     },
     {
       "name": "Trail do Ludens Clube Machico",
